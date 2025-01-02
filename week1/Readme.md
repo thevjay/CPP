@@ -13,3 +13,6 @@
 
 # Why Array is needed ?
 - 
+
+# Arrays && Functions
+- 
