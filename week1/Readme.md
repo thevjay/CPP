@@ -16,3 +16,8 @@
 
 # Arrays && Functions
 - 
+
+# reverse an array
+- 2 way of reverse the arr
+- - swap(a,b) swap(arr[s],arr[c])
+- -  
