@@ -183,8 +183,8 @@ int main(){
     
 
     //HW
-    -- implement swap is_function
-    -- 3 _Way
+    // -- implement swap is_function
+    // -- 3 _Way
 
     return 0;
 }
