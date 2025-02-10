@@ -40,9 +40,8 @@ int main(){
 
     int target = 50;
     
-    int ans = binarySearch(arr,target,n);
+    int ans = binarySearch(arr,n,target);
     cout << "index of " << target << " is " << ans << endl;
 
     return 0;
 }
-30
