@@ -9,16 +9,11 @@ int main(){
 
     vector<int> ans;
 
-    int i=0;
-    int j=1;
-    while (j < arr.size())
+    for (int i = 0; i < arr.size(); i++)
     {
-        int result = abs(arr[i]-arr[j]);
-        ans.push_back(result);
-        i++;
-        j++;
+        ans.push_back(abs(arr[i]-arr[i+1]));
     }
-
+    
     for(auto val:ans){
         cout<<val<<" ";
     }
