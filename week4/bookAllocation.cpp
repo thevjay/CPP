@@ -19,11 +19,11 @@ using namespace std;
         }
         return true;
     }
-
+ 
     int findPages(int arr[],int n, int k) {
         if (k > n) return -1; // More students than books is impossible
 
-        int start = *max_element(arr, arr+n); // At least max(arr)
+        int start = 0; // At least max(arr)
         int end = accumulate(arr, arr+n, 0); // Sum of all books
         int ans = -1;
 
@@ -43,9 +43,9 @@ using namespace std;
 // Driver Code
 int main() {
         
-        int arr[]={12,34,67,90};
+        int arr[] = { 12,34,67,90  };
         int n = sizeof(arr)/sizeof(arr[0]);
-        int  k=2;
+        int k=2;
         // Number of books
 
         cout <<findPages(arr, n,k) << endl;
