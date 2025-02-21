@@ -11,7 +11,7 @@ int getLength(char name[]){
         i++;
     }
     return length;
-}
+} 
 
 int main(){
 
