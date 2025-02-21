@@ -8,7 +8,7 @@ int main(){
     
     for(int row=0;row<2*n;row++){
         int cond = row <n ? row : n+(n-row-1);
-        int space_count = row<n ? 2*(n-cond-1): row-cond-1;
+        int space_count = row<n ? 2*(n-cond-1) : row-cond-1;
         for (int col = 0; col < 2*n; col++)
         {
             if(col <= cond){
