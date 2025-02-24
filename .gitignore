@@ -73,3 +73,5 @@ week01/patterns/fancyPat3.exe
 week01/patterns/fancyPattern2.exe
 string/RemoveAllAdjancetDup.exe
 string/RemoveAllOccusofSTR.exe
+string/validPalindrome.exe
+string/mininumTimeDiffere.exe
