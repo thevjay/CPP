@@ -9,7 +9,9 @@ public:
         vector<int> minutes;
         
         // Convert timePoints to minutes
-        for (string curr : timePoints) {
+        for(int i=0;i<timePoints.size();i++){
+            string curr = timePoints[i];
+            
             int hours = stoi(curr.substr(0,2));
             int min = stoi(curr.substr(3,2));
             minutes.push_back(hours * 60 + min);

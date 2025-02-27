@@ -12,3 +12,10 @@
 // it mean two pointer approach
 // low-> -ve   high-> +ve
 
+# H/W 
+- # String
+    - Help Ramu
+
+
+# Function :-
+- its is a well difend task
