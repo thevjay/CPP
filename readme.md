@@ -19,3 +19,9 @@
 
 # Function :-
 - its is a well difend task
+
+# Pointer :-
+- int a = 5;
+- int* p = &a; 
+
+# Arrays:-
