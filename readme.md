@@ -25,3 +25,10 @@
 - int* p = &a; 
 
 # Arrays:-
+- Linear search
+- count0's and 1's
+- count2's
+- Maximum number in an array
+- Min 
+- Extreme an array
+- reverse an array
