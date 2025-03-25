@@ -83,3 +83,9 @@ functions/findMax3no.exe
 functions/sumofEvennoUptoN.exe
 week5/longestCommonPrefix.exe
 pointers/info.exe
+arrays/2Darray/intro.exe
+arrays/2Darray/linearSearch2D.exe
+arrays/2Darray/maxmin2D.exe
+arrays/2Darray/rowSum.exe
+arrays/2Darray/transpose2D.exe
+arrays/2DVector.cpp/intro.exe
